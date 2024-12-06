@@ -39,3 +39,6 @@ basically go to PHPAdmin, go to Songs, click Insert on top of the site between S
 7. "Path", so you have to paste this "assets/music/putthenameofyourmusichere.mp3" there.
 8. "albumOrder" on which order would you place your song in the album chose/made.
 9. "plays" how many times the song/music is played.
+
+
+we're cooked
